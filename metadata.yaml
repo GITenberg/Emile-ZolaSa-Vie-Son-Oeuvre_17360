@@ -1,0 +1,33 @@
+_repo: Emile-ZolaSa-Vie-Son-Oeuvre_17360
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lepelletier, Edmond
+    aliases:
+    - Bouhelier, Edmond-Adolphe Lepelletier de
+    - Lepelletier, Edmond-Adolphe de Bouhélier
+    - Bouhélier, Edmond-Adolphe Lepelletier de
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '7324'
+    url: http://www.gutenberg.org/2009/agents/7324
+    wikipedia: http://fr.wikipedia.org/wiki/Edmond_Lepelletier
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2005-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17360'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zola, Émile, 1840-1902'
+- !lcc 'PQ'
+- !lcsh 'Novelists, French -- 19th century -- Biography'
+title: Emile Zola, Sa Vie—Son Oeuvre
+url: http://www.gutenberg.org/ebooks/17360
